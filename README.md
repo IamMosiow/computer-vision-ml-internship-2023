@@ -49,6 +49,10 @@ OpenCV (built with videoio & highgui)
 
 A standard C++17 compiler (e.g., GCC, MSVC)
 
+```
+
+---
+
 ## ▶️ How to Run
 
 Each folder contains a standalone project.
@@ -64,6 +68,8 @@ cd project_folder_name
 g++ main.cpp -o main `pkg-config --cflags --libs opencv4`
 ./main
 
+---
+
 ## 📊 Highlights
 
 Implemented both classical and deep-learning-based methods for vision tasks.
@@ -74,6 +80,8 @@ Integrated GUI and visualization in some projects (e.g., MNIST GUI recognition).
 
 Explored multiple languages (Python & C++) for comparison and understanding of implementation-level differences.
 
+---
+
 ## 🧠 Future Improvements
 
 Refactor old scripts into a unified structure.
@@ -83,6 +91,8 @@ Add Jupyter notebooks for step-by-step explanations.
 Re-train models with updated architectures.
 
 Add benchmarks for each project.
+
+---
 
 ## 📜 License
 
