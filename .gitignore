@@ -1,0 +1,34 @@
+# General
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# C++ build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+
+# Virtual environments
+env/
+venv/
+
+# Model files (optional)
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Logs
+*.log
+*.csv
+
+# OS
+Thumbs.db
